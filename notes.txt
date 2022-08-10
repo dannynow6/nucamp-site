@@ -1,0 +1,10 @@
+When using Bootstrap Grid, use <div> and three classes: container, row, and col
+e.g.:
+<div class="container></div>
+<div class="row"></div>
+<div class="col"></div>
+All content must go in columns. The container is there only to hold the rows and the rows exist only to hold the columns. 
+col-# tells it how many rows to span. e.g., <div class="col-4"></div>
+Each row has 12 potential columns or max columns 
+breakpoints:
+col-md-6 (tells it a column should be larger when viewport medium or larger)
