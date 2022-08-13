@@ -8,3 +8,10 @@ col-# tells it how many rows to span. e.g., <div class="col-4"></div>
 Each row has 12 potential columns or max columns 
 breakpoints:
 col-md-6 (tells it a column should be larger when viewport medium or larger)
+
+For portfolio project, can create directory and run npm init. Then copy package.json file info from nucampsite folder. Then run npm install to install all the same dependencies. 
+
+Use emmet in VS Code to write code quickly:
+e.g.
+if you write:
+div.container>div.row>div.col*4 (hit enter) will auto write all tags and rows cols automatically
