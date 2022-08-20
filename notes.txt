@@ -15,3 +15,10 @@ Use emmet in VS Code to write code quickly:
 e.g.
 if you write:
 div.container>div.row>div.col*4 (hit enter) will auto write all tags and rows cols automatically
+
+https://code.visualstudio.com/docs/editor/emmet
+
+Using bootstrap, no need to write a lot of javascript, just need to use the right attributes - e.g. data-toggle="collapse" data-target="somediv"
+<div id="somediv"> 
+
+Breadcrumbs important not just for user information but SEO optimization - adds more links to site and raises likelihood of higher index on google search. 
