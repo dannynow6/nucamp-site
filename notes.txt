@@ -22,3 +22,8 @@ Using bootstrap, no need to write a lot of javascript, just need to use the righ
 <div id="somediv"> 
 
 Breadcrumbs important not just for user information but SEO optimization - adds more links to site and raises likelihood of higher index on google search. 
+
+Modals are highly customizable - we can style them and they can contain anything we want - e.g., a pop-up form for reserving. 
+
+Emmet:
+body(element type).some-class-name#some-id-name*number of duplicates>new child element...
