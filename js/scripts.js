@@ -12,3 +12,5 @@ $(function() {
         }
     });
 });
+
+$('#reserveModal').modal(options)
